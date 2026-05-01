@@ -1,0 +1,5 @@
+# 📦 Kerakli kutubxonalar
+aiogram==3.7.0
+
+# Qo'shimcha (ixtiyoriy)
+python-dotenv
